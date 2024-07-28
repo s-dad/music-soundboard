@@ -1,4 +1,4 @@
-# Soundboard 🥁
+# Music Soundboard 🥁
 
 A soundboard project [Codedex](https://www.codedex.io/projects/build-an-interactive-soundboard-with-p5js). to learn p5.js
 
